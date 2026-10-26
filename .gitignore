@@ -4,3 +4,9 @@ secrets.conf
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
 *.bak
+*.bkp
+*.csv
+*.zip
+ShakeTune_results
+*.secrets
+crowsnest.conf.[0-9]*-[0-9]*-[0-9]*-[0-9]*
