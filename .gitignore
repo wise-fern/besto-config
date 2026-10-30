@@ -1,9 +1,13 @@
 .env
 secrets.conf
+*.zip
 *.swp
 *.tmp
+ShakeTune_results
 printer-[0-9]*_[0-9]*.cfg
+*.secrets
 *.bak
+crowsnest.conf.[0-9]*-[0-9]*-[0-9]*-[0-9]*
 *.bkp
 *.csv
 *.zip
